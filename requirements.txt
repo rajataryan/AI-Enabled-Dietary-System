@@ -1,0 +1,20 @@
+# Core Framework
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-ollama
+langgraph
+streamlit langgraph requests python-dotenv
+
+# Tools & APIs
+python-dotenv
+duckduckgo-search==5.3.1
+browserbase
+beautifulsoup4
+
+# Utilities
+pydanticgradio
+streamlit
+chromadb
