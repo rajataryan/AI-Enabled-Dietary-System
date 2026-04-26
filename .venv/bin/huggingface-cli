@@ -1,8 +1,0 @@
-#!/bin/sh
-'''exec' "/Users/rajat/Developer/AgenticAI/agents/LOCUS/WEEK 2/.venv/bin/python3.12" "$0" "$@"
-' '''
-import sys
-from huggingface_hub.cli.deprecated_cli import main
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(main())
