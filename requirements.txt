@@ -15,6 +15,7 @@ browserbase
 beautifulsoup4
 
 # Utilities
+playwright
 pydanticgradio
 streamlit
 chromadb
